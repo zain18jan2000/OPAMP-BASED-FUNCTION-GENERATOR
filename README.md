@@ -1,6 +1,6 @@
 # OPAMP-BASED-FUNCTION-GENERATOR
 
-<p>This Function Generator is capable of generating three types of signals which are as follow,</p><br>
+<p>This Function Generator is capable of generating three types of signals which are as follow,</p>
 1- Square Wave <br>
 2- Triangular Wave <br>
 3- Sine wave <br>
