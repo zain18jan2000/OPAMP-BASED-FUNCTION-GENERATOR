@@ -16,4 +16,4 @@ Second stage is an integrator converting square wave to triangular wave. Because
 
 <h1> LIMITATIONS OF THE CIRCUIT: </h1>
 1) Low Bandwith. Circuit cannot be used to generate high frequencies.<br>
-2) At some points, the signal experienced a clipping effect, usually at low  frequencies. However, this effect can be overcome by      varying the DC biasing voltage.   
+2) At some points, the signal experienced a clipping effect, usually at low  frequencies. However, this effect can be overcome by varying the DC   biasing voltage.   
