@@ -15,5 +15,5 @@ Second stage is an integrator converting square wave to triangular wave. Because
 <p>Frequency of the signal can be varied using the potentiometer in place of feedback resistor in first stage. All three signals will have same frequency for a given position of potentiometer wiper. For designing the circuit, I have used the op-amp LM-318 in each stage because of its high slew rate. Low cost op-amp like UA-741 or LM741 will have low slew rate, therefore will distort the shape of waveform. The amplitude of wave produced by function generator circuit can be varied by varying the input DC voltage.</p>
 
 <h1> LIMITATIONS OF THE CIRCUIT: </h1>
-1) Low Bandwith. Circuit cannot be used to generate high frequencies.
+1) Low Bandwith. Circuit cannot be used to generate high frequencies.<br>
 2) At some points, the signal experienced a clipping effect, usually at low  frequencies. However, this effect can be overcome by varying the DC biasing voltage.   
